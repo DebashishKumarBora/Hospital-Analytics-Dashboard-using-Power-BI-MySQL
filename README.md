@@ -36,7 +36,14 @@ The dashboard analyzes:
 ---
 
 ## 📊 Dashboard Preview  
-*(Insert screenshots here)*  
+
+  <img width="1306" height="721" alt="Screenshot 2025-08-26 030644" src="https://github.com/user-attachments/assets/b1169511-8a1f-45e9-aa47-34d1f0bd05e8" />
+<img width="1302" height="688" alt="Screenshot 2025-08-26 030727" src="https://github.com/user-attachments/assets/03567b48-e454-4f21-bbbb-7aeb4fd5558f" />
+<img width="1287" height="713" alt="Screenshot 2025-08-26 030735" src="https://github.com/user-attachments/assets/f6b21976-882c-495d-b8cd-a63f85a3d8b8" />
+<img width="1273" height="698" alt="Screenshot 2025-08-26 030654" src="https://github.com/user-attachments/assets/6b516b08-2075-4529-8adb-451cf9cb22e6" />
+<img width="1270" height="701" alt="Screenshot 2025-08-26 030704" src="https://github.com/user-attachments/assets/4ba403fd-a258-42ee-9a64-24e3be975b01" />
+<img width="1277" height="648" alt="Screenshot 2025-08-26 030720" src="https://github.com/user-attachments/assets/d54fc0e4-c819-41b7-9073-b9b8840e9544" />
+
 
 ---
 
