@@ -1,0 +1,2 @@
+# Hospital-Analytics-Dashboard-using-Power-BI-MySQL
+This project showcases an advanced Hospital Analytics Dashboard built in Power BI using data from a MySQL database. The dashboard provides insights into hospital operations, including patient management, doctor performance, financials, and pharmacy tracking. It also includes interactive filters, bookmarks, and drill-throughs for advanced analysis.
